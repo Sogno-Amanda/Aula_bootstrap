@@ -1,11 +1,17 @@
 .navbar{
-    background-color: #D2DAD2;
+    background-color: #8ECDC0;
 }
-
 .carousel-inner > .carousel-item > img {
     width: 700px;
     height: 500px;
     margin-top: 15px;
     position: central;
   }
-
+.cor-botao{
+    text-decoration: none;
+}
+.vestidos{
+  background-color: #E3F3EF;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
