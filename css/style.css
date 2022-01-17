@@ -1,6 +1,9 @@
+body{
+font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;
+}
 .navbar{
-    background-color: #8ECDC0;
-    
+    background-color:#8ECDC0;
 }
 .carousel-inner > .carousel-item > img {
     width: 700px;
@@ -9,13 +12,14 @@
     position: central;
   }
 
-.vestidos .casacos .conjuntos .acessorios{
+.fundo-sessao {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #8ECDC0;
+  background-color:#CD8EBA;
 }
-.cor-de-fundo{
-  
+
+.margin{
+  margin-top: 15px;
 }
 
 .botao{
