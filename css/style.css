@@ -6,12 +6,20 @@ font-family: 'Raleway', sans-serif;
     background-color:#8ECDC0;
 }
 .carousel-inner > .carousel-item > img {
-    width: 700px;
+    margin: auto;
     height: 500px;
     margin-top: 15px;
-    position: central;
+    position: relative;
   }
-
+  .carousel-inner{
+    max-width: 1700px;
+    min-width: 900px;
+    min-height: 900px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+  }
+ 
 .fundo-sessao {
   padding-top: 15px;
   padding-bottom: 15px;
